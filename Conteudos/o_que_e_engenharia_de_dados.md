@@ -24,8 +24,9 @@ Podem ser classificadas como um conjunto de informações que constituem uma inf
 
 ### Elevação dos Dados
 
-![image-20210920213049553](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920213049553.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134161825-22f0886c-1236-4b78-a3db-c761a11e6d0c.png" width="500px" />
+</div>
 
 
 #### Desafios
@@ -48,7 +49,10 @@ Podem ser classificadas como um conjunto de informações que constituem uma inf
 
 #### Dados vs Informação
 
-![image-20210920213333106](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920213333106.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134161902-1e2cad0a-98b2-4230-88c1-915e6e230545.png" width="500px" />
+</div>
+
 
 A informação depois de gerada levará conhecimento.
 
@@ -61,20 +65,20 @@ A informação depois de gerada levará conhecimento.
 
 
 
-
-
 ## Tecnologias e jornada do engenheiro de dados
 
-#### ![image-20210920214232648](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920214232648.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162213-a298bf77-a5f6-44b4-bd05-fb4dd8c08431.png" width="500px" />
+</div>
 
 
 
 
 ## Como transformar dados em informações
 
-#### Dados vs Informação![image-20210920220451205](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920220451205.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162274-89945802-70e0-4721-b374-3d959e1f4cbf.png" width="500px" />
+</div>
 
 
 #### Principais falhas
@@ -114,8 +118,9 @@ A informação depois de gerada levará conhecimento.
 
 #### Pipeline
 
-![image-20210920222838203](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920222838203.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162379-0e0586fa-ceef-4edb-b8ea-001af17c72d9.png" width="500px" />
+</div>
 
 
 ### Papeis
@@ -174,8 +179,9 @@ O objetivo do DataOPS é **entregar valor com mais rapidez**, criando entrega pr
 
 #### Estratégia de dados
 
-![image-20210920224116305](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920224116305.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162445-f18c455f-a3c9-4833-9743-40148c37b031.png" width="500px" />
+</div>
 
 
 
@@ -194,16 +200,18 @@ Deve possuir habilidades relacionadas ao **desenvolvimento e arquitetura de soft
 
 "Engenheiro de dados é um tipo especializado de Engenharia de Software que possibilita outros a responderem questões sobre grandes datasets com restrições específicas de latência e tempo"
 
-![image-20210920224532974](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920224532974.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162546-7d2caa5d-7887-4240-93fd-b4eca4232d52.png" width="500px" />
+</div>
 
 
 #### Responsabilidades
 
 Garantir que os dados estejam disponíveis para a análise de forma segura
 
-![image-20210920224815471](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920224815471.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134162585-3112b630-b1ce-4b8d-97fe-e5ccc8115f3f.png" width="500px" />
+</div>
 
 
 
