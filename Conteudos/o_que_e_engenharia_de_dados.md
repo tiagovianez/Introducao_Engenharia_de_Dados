@@ -1,6 +1,6 @@
 ## O que são Dados?
 
-
+Podem ser classificadas como um conjunto de informações que constituem uma informação. A informação é o dado organizado que possui algum sentido. Um texto, por exemplo, pode ser uma informação, uma fonte de muitas informações ou um conjunto de informações.
 
 
 
