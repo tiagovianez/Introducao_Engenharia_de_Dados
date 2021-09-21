@@ -8,7 +8,9 @@ Processo de transformar dados em informações e informações em conhecimento -
 
 Converter o volume de dados em informações relevantes para o negócio, por meio de relatórios analíticos
 
-![image-20210920230750806](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920230750806.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163531-3250eedf-fe51-44f6-8193-58c428f4bed9.png" width="500px" />
+</div>
 
 
 
@@ -57,19 +59,24 @@ Combinar esses dados em um formulário de resumo agregado adequado para análise
 
 ### OLTP vs OLAP
 
-![image-20210920232333685](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920232333685.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163604-d94c4d49-b860-4bac-b0f4-ba7c8e76834b.png" width="500px" />
+</div>
 
 
 ### Modelos: Relacional vs Dimensional
 
-![image-20210920232459127](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920232459127.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163685-fa08abc5-9052-4312-b087-b79c62e9c658.png" width="500px" />
+</div>
 
 
 ### Arquitetura Básica
 
-![image-20210920232550981](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920232550981.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163751-97fc2114-ccfe-4ecd-b536-b286fd5c9257.png" width="500px" />
+</div>
+
 
 - Coletar
 - Extrair
@@ -80,7 +87,10 @@ Combinar esses dados em um formulário de resumo agregado adequado para análise
 
 ### Staging Area
 
-![image-20210920234539746](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920234539746.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163804-e8d4f8db-867d-4e0f-ba9b-a9f52b553149.png" width="500px" />
+</div>
+
 
 Arquitetura mais possível de ser encontrada no mercado
 
@@ -88,7 +98,10 @@ Arquitetura mais possível de ser encontrada no mercado
 
 ### Data Marts
 
-![image-20210920234625226](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920234625226.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163841-1a4bc24f-52af-45c4-8a66-0255775f9d49.png" width="500px" />
+</div>
+
 
 * Os Data Marts são base de dados modelados por assuntos específicos
 * Arquitetura comum vista no mercado
@@ -101,11 +114,15 @@ Arquitetura mais possível de ser encontrada no mercado
 
 (Extract, Transform, Load) é um processo automatizado que coleta dados brutos, extrai as informações necessárias para análise, transforma em um formato que atende às necessidades de negócios e carrega em um DW.
 
-![image-20210920235118617](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920235118617.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163921-fb7c9a30-0b70-4ed2-81ba-0479ffd10d86.png" width="500px" />
+</div>
 
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163923-12f96238-9944-4498-9fe6-7265526b1255.png" width="500px" />
+</div>
 
-![image-20210920235312133](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210920235312133.png)
 
 * **Malhas de ETL**
 
@@ -163,13 +180,14 @@ Contêm repositórios de dados resumidos coletados para análise em uma seão ou
 
 ... Ex.: Departamento de Vendas
 
-![image-20210921074436221](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210921074436221.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134163970-a955ad08-df65-4c3e-8d23-414ba6de843b.png" width="500px" />
+</div>
 
 
-
-
-
-![image-20210921074223252](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210921074223252.png)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134164049-8a4bfd7b-54ca-4737-8348-a2b8e21c2120.png" width="500px" />
+</div>
 
 
 
@@ -189,8 +207,9 @@ Contêm repositórios de dados resumidos coletados para análise em uma seão ou
 
 
 
-![image-20210921074831359](C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210921074831359.png)
-
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134164136-4e61a50f-5bdf-47df-9c1b-a0d7e10a4a9c.png" width="500px" />
+</div>
 #### Top-down design
 
 * Toda sua origem de dados, coleta e armazenagem seja diretamente em um ambiente de DW;
@@ -200,8 +219,10 @@ Contêm repositórios de dados resumidos coletados para análise em uma seão ou
 
 
 
-<img src="C:\Users\Tiago\AppData\Roaming\Typora\typora-user-images\image-20210921075036250.png" alt="image-20210921075036250" style="zoom:67%;" />
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/78626907/134164203-ecd207e8-fc1c-4511-82d7-1af6912f5077.png" width="500px" />
+</div>
 #### Bottom-up design
 
 * A primeira coisa que estabelece são os DMs;
